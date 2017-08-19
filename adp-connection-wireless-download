@@ -1,0 +1,25 @@
+Last login: Sun Jul 30 11:49:32 on ttys001
+Wilders-MacBook-Pro:~ WilderBuchanan$ adb tcpip 5555
+restarting in TCP mode port: 5555
+Wilders-MacBook-Pro:~ WilderBuchanan$ adb connect 10.0.1.19
+connected to 10.0.1.19:5555
+Wilders-MacBook-Pro:~ WilderBuchanan$ 
+
+// https://developer.android.com/studio/command-line/adb.html#wireless
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
